@@ -1,0 +1,21 @@
+
+
+body{
+    background-color: rgb(255, 227, 227);
+    font-family: AB-kersera;
+    font-size: 20;
+}
+
+h1{
+    grid-column: 4;
+    grid-row: 2;
+    transform: scale(1.05);
+    box-shadow: inset;
+    
+}
+
+h2{
+    font-family: didot;
+    font-size: 14;
+    
+}
